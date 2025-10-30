@@ -1,0 +1,17 @@
+.blue{
+    background-color: rgba(0, 0, 0, 0);
+
+}
+
+.red{
+    background-color: lightcoral;
+}
+.black{
+    background-color: black;
+    color: white;
+}
+
+.spacing{
+    display: flex;
+    justify-content: space-evenly;
+}
