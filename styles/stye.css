@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Bangers&family=Lato:wght@400;700&display=swap');
-h1, h2, h3, button, .navbar-brand {
+h1, h2, h3, .navbar-brand {
     font-family: 'Bangers', cursive;
     letter-spacing: 2px;
     color: #000000;
