@@ -22,11 +22,20 @@ h1, h2, h3, .navbar-brand {
 
 .spacing{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
 }
 
 body {
     background: url(/images/Background.jpg) no-repeat center center fixed;
     background-size: cover;
     min-height: 100vh;
+}
+.flex{
+    display: flex;
+    justify-content:center;
+    align-items: center
+}
+
+.versus{
+    color: yellow;
 }
