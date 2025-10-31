@@ -22,7 +22,7 @@ h1, h2, h3, .navbar-brand {
 
 .spacing{
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
 }
 
 body {
@@ -33,7 +33,7 @@ body {
 .flex{
     display: flex;
     justify-content:center;
-    align-items: center
+    align-items: center;
 }
 
 .versus{
