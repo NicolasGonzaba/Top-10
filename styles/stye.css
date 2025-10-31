@@ -1,48 +1,48 @@
-@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Lato:wght@400;700&display=swap');
-h1, h2, h3, .navbar-brand {
-    font-family: 'Bangers', cursive;
-    letter-spacing: 2px;
-    color: #000000;
+@import url("https://fonts.googleapis.com/css2?family=Bangers&family=Lato:wght@400;700&display=swap");
+h1,
+h2,
+h3,
+.navbar-brand {
+  font-family: "Bangers", cursive;
+  letter-spacing: 2px;
+  color: #000000;
 }
-.textBG{
-    
-    background-color: #5bc0de;
-}
-
-.blue{
-    background-color: rgba(0, 0, 0, 0);
-
+.textBG {
+  background-color: #5bc0de;
 }
 
+.blue {
+  background-color: rgba(0, 0, 0, 0);
+}
 
-.spacing{
-    display: flex;
-    justify-content: center;
+.spacing {
+  display: flex;
+  justify-content: center;
 }
 
 body {
-    background: url(/images/Background.jpg) no-repeat center center fixed;
-    background-size: cover;
-    min-height: 100vh;
+  background: url(/images/Background.jpg) no-repeat center center fixed;
+  background-size: cover;
+  min-height: 100vh;
 }
-.flex{
-    display: flex;
-    justify-content:center;
-    align-items: center;
-}
-
-.versus{
-    color: yellow;
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-.buttons{
-    margin-left: -100px !important; /* Example: pushes element 50px to the left */
-  margin-right: -100px !important; 
+.versus {
+  color: yellow;
+}
+
+.buttons {
+  margin-left: -100px !important; /* Example: pushes element 50px to the left */
+  margin-right: -100px !important;
   display: flex;
   justify-content: space-between;
 }
 
-.end{
-    display: flex;
-    justify-content:end ;
+.end {
+  display: flex;
+  justify-content: end;
 }
