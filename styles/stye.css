@@ -34,3 +34,15 @@ body {
 .versus{
     color: yellow;
 }
+
+.buttons{
+    margin-left: -100px !important; /* Example: pushes element 50px to the left */
+  margin-right: -100px !important; 
+  display: flex;
+  justify-content: space-between;
+}
+
+.end{
+    display: flex;
+    justify-content:end ;
+}
